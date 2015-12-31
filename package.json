@@ -20,7 +20,7 @@
     "url": "https://github.com/stream-utils/check-sum/issues"
   },
   "devDependencies": {
-    "mocha": "~1.6",
-    "should": "~2.1"
+    "mocha": "~2.3.4",
+    "should": "~8.0.2"
   }
 }
